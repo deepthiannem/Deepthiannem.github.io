@@ -265,7 +265,7 @@ section {
 #about {
   position: relative;
 }
-.education-container {
+/* .education-container {
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -280,12 +280,12 @@ section {
 .education-details h2,
 .education-details p {
   margin: 0;
-}
+} */
 
 .about-containers {
-  gap: 2rem;
-  margin-bottom: 2rem;
-  margin-top: 2rem;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 
 .about-details-container {
@@ -299,7 +299,7 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;
+  border-radius: 1rem;
 }
 
 .arrow {
